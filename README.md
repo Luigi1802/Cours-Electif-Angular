@@ -1,27 +1,16 @@
 # TaskManager
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.2.
+Node: 20.13.1
+Package Manager: npm 10.8.3
+Yarn: 1.22.22
+Compodoc: 1.1.25
 
-## Development server
+## Commands
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+`ng serve` / `npm run start` to start the server.
+`npm run compodoc` to start the documentation server.
 
-## Code scaffolding
+## Avancement
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+Mise en pratique - Façade pattern

@@ -1,0 +1,6 @@
+<div>
+    <h3>{{currentTask.titre}}</h3>
+    <p>Description : {{currentTask.description}}</p>
+    <span>État : </span><span [appTaskColor]="currentTask">{{currentTask.etat}}</span>
+    <p>Date : {{currentTask.date | dateFormat}}</p>
+</div>
